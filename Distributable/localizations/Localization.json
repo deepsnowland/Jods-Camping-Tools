@@ -7,7 +7,7 @@
     "GAMEPLAY_KnifeJDescription" : {
                             "English" : "A superior quality hunting knife. Heavier, but sharper. Whoever owned this was someone you wouldn't want to cross.",
 							"Spanish (Spain)" : "Un cuchillo de caza de alta calidad. Más pesado, pero más afilado. A quien sea que perteneció este cuchillo no es alguien con el que querrías cruzarte.",
-							"Japanese" : "高品質の狩猟用ナイフ。重たいが鋭利だ。このナイフの持ち主が誰であれ、君は逆らいたくはないだろう。"
+							"Japanese" : "高品質の狩猟用ナイフ。重たいが鋭利だ。このナイフの持ち主が誰であれ、君は逆らいたくないだろう。"
     },
 	"GAMEPLAY_KnifeS" : {
                             "English" : "Scrap Metal Shard",
@@ -88,7 +88,7 @@
 	"GAMEPLAY_TentDescription" : {
 							"English" : "An improvised tent, made out of tarp sheets, some cloth and spare metal parts, barely held toghether with duct tape. Not the best, but better than sleeping out in the open.",
 							"Spanish (Spain)" : "Una tienda de campaña inprovisada, fabricada a partir de lona, algo de tela y chatarra, sujetada milagrosamente por cinta adhesiva. No es lo mejor, pero es preferible a la intenperie.",
-							"Japanese" : "タープシートと数枚の布、余分な金属部品をダクトテープで何とか一まとめにして作った即席のテント。野外で眠るためのものとしては最高ではないが、青天井よりはましである。"
+							"Japanese" : "タープシートと数枚の布、余分な金属部品をダクトテープで何とか一まとめにして作った即席のテント。最高のものではないが、青天井よりはましである。"
 	},
 	"GAMEPLAY_SatchelM" : {
 							"English" : "Ranger Satchel",
